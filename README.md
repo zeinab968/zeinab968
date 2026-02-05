@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zeinab Hassan</h1>
 <h3 align="center">Front-End Developer | Building clean & responsive web interfaces</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeinab968&label=Profile%20views&color=0e75b6&style=flat" alt="zeinab968" />
-</p>
+
 
 ---
 
