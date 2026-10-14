@@ -16,7 +16,7 @@ I'm a front-end developer based in **Egypt** who turns designs into fast, respon
 - 🔭 Currently building: **React projects with reusable component architecture**
 - 🌱 Currently deepening: **modern CSS, state management, and performance**
 - 💼 Open to: **freelance work and junior front-end roles**
-- 📫 Reach me: **zeinabhassn123@gmail.com**
+- 📫 Reach me: **zeinabhassn123@gmail.com - WhatsApp : +20 111 478 9218**
 
 ---
 
@@ -34,9 +34,9 @@ I'm a front-end developer based in **Egypt** who turns designs into fast, respon
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| 🛒 **E-Commerce** | Browse and find products with a clean, responsive UI | React | [Code](https://github.com/zeinab968/E-Commerce) · [Live](https://zeinab968.github.io/E-Commerce/) |
-| 🍼 **Bottle Store** | Multi-section responsive landing page for a bottle store | HTML, CSS | [Code](https://github.com/zeinab968/NTI-Web-Dev-Grad-Proj) · [Live](https://zeinab968.github.io/NTI-Web-Dev-Grad-Proj/) |
-| 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, JS | [Code](https://github.com/zeinab968/Fllowers-Store) · [Live](https://zeinab968.github.io/Fllowers-Store/) |
+| 🛒 **E-Commerce** | Browse and find products with a clean, responsive UI | React , Bootstrap | [Code](https://github.com/zeinab968/E-Commerce) · [Live](https://zeinab968.github.io/E-Commerce/) |
+| 🍼 **Bottle Store** | Multi-section responsive landing page for a bottle store | HTML5, CSS3 ,Js | [Code](https://github.com/zeinab968/NTI-Web-Dev-Grad-Proj) · [Live](https://zeinab968.github.io/NTI-Web-Dev-Grad-Proj/) |
+| 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, | [Code](https://github.com/zeinab968/Fllowers-Store) · [Live](https://zeinab968.github.io/Fllowers-Store/) |
 ---
 
 ## 📊 GitHub Stats
