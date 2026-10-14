@@ -35,7 +35,8 @@ I'm a front-end developer based in **Egypt** who turns designs into fast, respon
 | Project | What it is | Tech | Links |
 |---|---|---|---|
 | 🛒 **E-Commerce** | Browse and find products with a clean, responsive UI | React , Bootstrap | [Code](https://github.com/zeinab968/E-Commerce) · [Live](https://zeinab968.github.io/E-Commerce/) |
-| 🍼 **Bottle Store** | Multi-section responsive landing page for a bottle store | HTML5, CSS3 ,Js | [Code](https://github.com/zeinab968/NTI-Web-Dev-Grad-Proj) · [Live](https://zeinab968.github.io/NTI-Web-Dev-Grad-Proj/) |
+| 📦 **CRUDS — Product Management System** | Create, search, update, and delete products with automatic price calculations | HTML5, CSS3, JavaScript | [Code](https://github.com/zeinab968/CRUDS) · [Live](https://zeinab968.github.io/CRUDS/) |
+| 🍼 **Bottle Store** | Multi-section responsive landing page for a bottle store | HTML5, CSS3 | [Code](https://github.com/zeinab968/NTI-Web-Dev-Grad-Proj) · [Live](https://zeinab968.github.io/NTI-Web-Dev-Grad-Proj/) |
 | 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, | [Code](https://github.com/zeinab968/Fllowers-Store) · [Live](https://zeinab968.github.io/Fllowers-Store/) |
 ---
 
