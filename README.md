@@ -1,71 +1,69 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Zeinab Hassan</h1>
-<h3 align="center">Front-End Developer | Building clean & responsive web interfaces</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38B2AC&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+Tailwind+CSS;Clean%2C+responsive+interfaces" alt="Typing animation" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=38B2AC&style=flat" alt="Profile views" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Front-End Developer passionate about **UI/UX & responsive design**
-- 💡 I love turning designs into **interactive web experiences**
-- 🧩 Strong focus on **clean code & reusable components**
-- 🚀 Currently improving my skills in **React & modern CSS frameworks**
-- 📍 Based in **Egypt**
+I'm a front-end developer based in **Egypt** who turns designs into fast, responsive, accessible interfaces. I build with **React** and **Tailwind CSS**, and I take on freelance projects, including right-to-left (Arabic) e-commerce storefronts.
+
+- 🔭 Currently building: **React projects with reusable component architecture**
+- 🌱 Currently deepening: **modern CSS, state management, and performance**
+- 💼 Open to: **freelance work and junior front-end roles**
+- 📫 Reach me: **zeinabhassn123@gmail.com**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 🌐 Front-End
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
-</p>
-
-### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
+| Area | Tools |
+|---|---|
+| **Languages** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
+| **Frameworks & UI** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ## 📂 Featured Projects
 
-- ⭐ **Movie Rating App (React)**
-- 🚗 **Cars Website (HTML & CSS)**
-- 🛍️ **Followers Store UI**
-- 🐱 **Fun HTML Projects**
+| Project | What it is | Tech | Links |
+|---|---|---|---|
+| 🎬 **Movie Rating App** | Browse and rate movies with a clean, responsive UI | React | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| 🚗 **Cars Website** | Multi-section responsive landing page for a car showroom | HTML, CSS | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, JS | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| 🐱 **Fun HTML Projects** | Small experiments for practicing layout and structure | HTML, CSS | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) |
 
-👉 Check my repositories to see more!
+> 💡 Replace the placeholder links above. A live demo link is the single biggest upgrade for any project row.
 
 ---
 
+## 📊 GitHub Stats
 
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/zeinab-hassan-65a6a127b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:zeinabhassn123@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+## 📫 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/zeinab-hassan-65a6a127b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zeinabhassn123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">⭐ Feel free to explore my repositories, and let's build something great together!</p>
