@@ -34,9 +34,9 @@ I'm a front-end developer based in **Egypt** who turns designs into fast, respon
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| 🎬 **Movie Rating App** | Browse and rate movies with a clean, responsive UI | React | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
-| 🚗 **Cars Website** | Multi-section responsive landing page for a car showroom | HTML, CSS | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
-| 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, JS | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) · [Live](https://YOUR_LIVE_LINK) |
+| 🎬 **E-Commerce** | Browse and Find productss with a clean, responsive UI | React | [Code](https://github.com/zeinab968/E-Commerce.git) · [Live](zeinab968.github.io/E-Commerce/) |
+| 🚗 **Bottle Store** | Multi-section responsive landing page for a boottles Store | HTML, CSS | [Code](https://github.com/zeinab968/NTI-Web-Dev-Grad-Proj.git) · [Live](zeinab968.github.io/Bottol-Store/) |
+| 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, JS | [Code](https://github.com/zeinab968/Fllowers-Store.git) · [Live](zeinab968.github.io/Fllowers-Store/) |
 | 🐱 **Fun HTML Projects** | Small experiments for practicing layout and structure | HTML, CSS | [Code](https://github.com/YOUR_USERNAME/REPO_NAME) |
 
 > 💡 Replace the placeholder links above. A live demo link is the single biggest upgrade for any project row.
