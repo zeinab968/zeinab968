@@ -39,14 +39,6 @@ I'm a front-end developer based in **Egypt** who turns designs into fast, respon
 | 🛍️ **Followers Store UI** | Storefront interface with product cards and layout | HTML, CSS, | [Code](https://github.com/zeinab968/Fllowers-Store) · [Live](https://zeinab968.github.io/Fllowers-Store/) |
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
